@@ -2,6 +2,7 @@
   "name": "goit-js-hw-08",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://vasylhorban.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
